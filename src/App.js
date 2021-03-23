@@ -1,25 +1,26 @@
-import logo from './logo.svg';
+
 import './App.css';
+import ToDo from'./ToDo.js';
+import Progressing from'./Progressing.js';
+import Done from'./Done.js';
+import AddBox from './AddBox';
+
+const toDos = {}
 
 function App() {
   return (
-    <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+          <aside>
+              <AddBox></AddBox>
+          </aside>
+          <div className="flex-container">
+              <ToDo/>
+              <Progressing/>
+              <Done/>
+          </div>
       </header>
-    </div>
   );
 }
 
 export default App;
+
