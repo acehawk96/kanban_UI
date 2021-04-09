@@ -14,7 +14,7 @@ Developed using React.
 
 
 #### App Home page
-![App Home page](src/images/screen_shots/screen_shot_1.PNG)
+![App Home page](src/images/screen_shots/screen_shot_1.png)
 
 
 
