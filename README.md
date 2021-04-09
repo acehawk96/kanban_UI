@@ -1,3 +1,28 @@
+# Kanban Board UI
+
+### Kanban Board User Interface.
+
+Directions:
+
+------------------------------------------------------------------------
+
+## See: Getting Started with Create React App  
+
+ ### Description:
+
+Developed using React. 
+
+
+#### App Home page
+![App Home page](src/images/screen_shots/screen_shot_1.PNG)
+
+
+
+### Lessons Learned:
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
