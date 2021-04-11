@@ -3,10 +3,8 @@
 ### Kanban Board User Interface.
 
 Directions:
-
+## See: Getting Started with Create React App 
 ------------------------------------------------------------------------
-
-## See: Getting Started with Create React App  
 
  ### Description:
 
