@@ -17,7 +17,7 @@ Developed using React.
 
 
 ### Lessons Learned:
-(Future self speeking) Use a React Component library next time!
+(Future self speaking) Use a React Component library next time!
 
 
 
